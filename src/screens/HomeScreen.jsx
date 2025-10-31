@@ -9,6 +9,7 @@ export default function HomeScreen() {
     <View style={{ padding: 20}}>
       <ScrollView>
         <Button title="Go to About" onPress={() => nav.navigate('About')} />
+        <Button title="Go to Counter" onPress={() => nav.navigate('Counter')} />
         <Button title="Go Back?" onPress={() => nav.goBack()} />
         <MyFirstComponent />
       </ScrollView>
