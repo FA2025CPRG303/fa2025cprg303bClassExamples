@@ -1,0 +1,22 @@
+[
+    {
+        "dogName": "Rover",
+        "dogAge": 4,
+        "dogBreed": "Golden Retriever"
+    },
+    {
+        "dogName": "Bingo",
+        "dogAge": 3,
+        "dogBreed": "Beagle"
+    },
+    {
+        "dogName": "Sparky",
+        "dogAge": 6,
+        "dogBreed": "Great Dane"
+    },
+    {
+        "dogName": "Lola",
+        "dogAge": 5,
+        "dogBreed": "Labradoodle"
+    }
+]
